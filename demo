@@ -10,7 +10,7 @@ from emonet.models import EmoNet
 # =========================
 # 路径配置
 # =========================
-img_path = "/content/drive/MyDrive/mask/picturetest/mask_noh2.jpg"
+img_path = "/content/drive/MyDrive/mask/picturetest/test1.jpg"
 emotion_checkpoint = "/content/drive/MyDrive/mask/checkpoints/latest2.pt"
 material_checkpoint = "/content/drive/MyDrive/mask/textcnn_ckpt4.pth"
 
